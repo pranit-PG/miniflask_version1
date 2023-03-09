@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>RANDOM HTML</title>
+</head>
+
+
+<body>
+
+<h1>  This is my first HTML </h1>
+<h2>  This is my first HTML </h2>
+<h3>  This is my first HTML </h3>
+<h4>  This is my first HTML </h4>
+<p> This is a paragraph </p>
+
+
+</body>
+
+
+</html>
